@@ -1,1 +1,3 @@
 # MiEjercicioGuia
+
+Versión con concurrencia
